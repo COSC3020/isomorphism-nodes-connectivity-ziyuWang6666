@@ -13,16 +13,4 @@ one-to-one and onto function (bijection) $f: V_1 \rightarrow V_2$ such that $(u,
 
 ## Answer
 
-I have two graphs they are called A and B, these are isomorphic which means there exists a function f that is bijective one-to-one 
-and onto that map goes both directions. Because of these additional properties above, two graphs $A$ and $B$ have the same number of nodes that are completely connected and are also isomorphic. For example:
-
-Graph A: has two nodes A and B, they are completely connected as follows
-
-A____B
-
-
-Graph B: has two nodes C and D, they are also completely connected as follows.
-
-C____D
-
-Both graphs A and B have two nodes, they are completely connected. Because of bijective properties, both one-to-one and onto mapping in bidirectional. So, they are isomorphic.
+Assuming I have two graphs they are called A and B. They all have three nodes and are completely connected. Graph A has nodes V1={a, b, c}. The set of edges E1={ab, bc, ca}. Graph B has nodes V2={d, e, f} with a set of edges E2={de, ef, fd}. Now considering there is a function f in Graph A start from the node a, then goes through b and c; and also this function f mapping in graph B can goes through from d, then e, finally f. So, this function mapping from one-to-one and onto. Because every relation possesses properties ${(u,v)} \in E_1 \iff {f(u),f(v)} \in E_2$. So, they are isomorphic.
